@@ -1,5 +1,5 @@
 # 🗿 About Me:
-Hi 👋, I'm Tanmay Paul || Learner || Web Development <br><br>Email Me 👉 ✉️ paultanmay265@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Inventory Management System<br>🌱 I’m currently learning: Javascript, Tailwind CSS, Flutter, React<br>👯 I’m looking to collaborate on: Modern Invoice Generator<br>🤔 I’m looking for help with: Modern Invoice Generator<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: paultanmay265@gmail.com<br>😄 Pronouns: Tanmayy<br>⚡ Fun fact: I Love Tech and Tech Love Me
+Hi 👋, I'm Tanmay Paul || Learner || Web Development || UI/UX Designer <br><br>Email Me 👉 ✉️ paultanmay265@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Inventory Management System<br>🌱 I’m currently learning: Javascript, Tailwind CSS, Flutter, React, UI/UX designing <br>👯 I’m looking to collaborate on: Modern Invoice Generator<br>🤔 I’m looking for help with: Modern Invoice Generator<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: paultanmay265@gmail.com<br>😄 Pronouns: Tanmayy<br>⚡ Fun fact: 🛠️ Still learning, still building, still failing forward
 
 
 ## 🌐 Socials:
