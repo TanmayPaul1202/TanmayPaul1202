@@ -1,5 +1,5 @@
 # 🗿 About Me:
-Hi 👋, I'm Tanmay Paul || Learner || Web Development || UI/UX Designer <br><br>Email Me 👉 ✉️ paultanmay265@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Inventory Management System <br>🌱 I’m currently learning: UI/UX designing <br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: paultanmay265@gmail.com<br>😄 Pronouns: Tanmayy<br>⚡ Fun fact: 🛠️ Still learning, still building, still failing forward
+Hi 👋, I'm Tanmay Paul || Learner || Web Development || UI/UX Designer <br><br>Email Me 👉 ✉️ paultanmay265@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>🔭 I’m currently working on: Kishan Sahay <br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: paultanmay265@gmail.com<br>😄 Pronouns: Tanmayy<br>⚡ Fun fact: 🛠️ Still learning, still building, still failing forward
 
 
 ## 🌐 Socials:
