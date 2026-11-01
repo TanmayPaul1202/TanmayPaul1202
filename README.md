@@ -8,7 +8,7 @@ I enjoy building digital experiences through clean code, thoughtful design, and 
 - 🔭 Currently working on **Kishan Sahay**
 - 🌱 Exploring full-stack development and UI/UX design
 - 💡 Interested in web development, product design, and collaboration
-- 📫 Reach me at **[paultanmay265@gmail.com](mailto: tanmaypaul3690@gmail.com)**
+- 📫 Reach me at **[tanmaypaul3690@@gmail.com]
 
 ---
 
