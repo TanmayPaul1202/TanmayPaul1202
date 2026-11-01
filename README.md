@@ -1,14 +1,14 @@
 
 # Hi, I'm Tanmay Paul 👋
 
-### Learner · Web Developer · UI/UX Designer
+### Learner · Web Developer · Video Editor 
 
-I enjoy building meaningful digital experiences through clean code, thoughtful design, and modern web technologies.
+I enjoy building digital experiences through clean code, thoughtful design, and modern web technologies.
 
 - 🔭 Currently working on **Kishan Sahay**
 - 🌱 Exploring full-stack development and UI/UX design
 - 💡 Interested in web development, product design, and collaboration
-- 📫 Reach me at **[paultanmay265@gmail.com](mailto:paultanmay265@gmail.com)**
+- 📫 Reach me at **[paultanmay265@gmail.com](mailto: tanmaypaul3690@gmail.com)**
 
 ---
 
