@@ -1,14 +1,14 @@
 
 # Hi, I'm Tanmay Paul 👋
 
-### Learner · Web Developer · Video Editor 
+### Learner · Frontend Developer · Video Editor 
 
 I enjoy building digital experiences through clean code, thoughtful design, and modern web technologies.
 
 - 🔭 Currently working on **Kishan Sahay**
 - 🌱 Exploring full-stack development and UI/UX design
 - 💡 Interested in web development, product design, and collaboration
-- 📫 Reach me at **[tanmaypaul3690@@gmail.com]
+- 📫 Reach me at **[tanmaypaul3690@@gmail.com]**
 
 ---
 
@@ -56,18 +56,23 @@ I enjoy building digital experiences through clean code, thoughtful design, and 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
-
-### GitHub Activity
+# <h3 align="center">📊 GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanmayPaul1202&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TanmayPaul1202&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayPaul1202&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayPaul1202&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
 </p>
 
----
+<hr />
 
 <p align="center">
   <i>Still learning, still building, still failing forward.</i>
