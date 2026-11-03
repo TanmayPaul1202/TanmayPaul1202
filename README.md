@@ -56,18 +56,18 @@ I enjoy building digital experiences through clean code, thoughtful design, and 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
-# <h3 align="center">📊 GitHub Activity</h3>
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TanmayPaul1202&show_icons=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"
     alt="GitHub Stats"
   />
-</p>
 
-<p align="center">
+  <br />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayPaul1202&layout=compact&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark"
     alt="Top Languages"
   />
 </p>
